@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Expense',
       theme: ThemeData(
         primarySwatch: Colors.teal,
-        scaffoldBackgroundColor: Color.fromARGB(255, 61, 195, 205),
+        scaffoldBackgroundColor: Color.fromARGB(255, 120, 223, 230),
       ),
       home: const MyHomePage(title: 'Budget'),
     );
